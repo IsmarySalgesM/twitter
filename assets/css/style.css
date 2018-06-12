@@ -1,0 +1,44 @@
+body {
+	margin: 0 auto;
+	background-color:cornflowerblue;
+}
+header{
+	text-align: center;
+	background-color: cadetblue;
+}
+.col-4{
+	background-color: white;
+	width: 40%;
+	height: 15%;
+	font-size: 20px;
+	padding: 2em;
+	border-radius: 1em;
+	border: none;
+	margin: 0;
+	
+
+}
+textarea{
+	width: 70%;
+	height: 4em;
+	color: #4E4D53;
+	font-size: 15px;
+	padding: 1em;
+	border-radius: 1em;
+	border: none;
+	margin: 0 auto;
+
+}
+#btn {
+	background-color: #66AEC7;
+	border: 0px;
+	cursor: pointer;
+	text-align: center;
+	margin: 3em auto;
+	width: 130px;
+	height: 30px;
+	display: block;
+	color: #FFF;
+	
+}
+
